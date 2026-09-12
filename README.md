@@ -1,4 +1,4 @@
-![SteelDoor Security Event Defense Platform](./assets/steeldoor-banner.svg)
+![SteelDoor Security Event Defense Platform](./assets/steeldoor-banner.png)
 
 [![CI Pipeline](https://github.com/TYSECRD/DevSecOps-Portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/TYSECRD/DevSecOps-Portfolio/actions/workflows/ci.yml)
 
