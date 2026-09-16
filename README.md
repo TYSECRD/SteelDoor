@@ -1,6 +1,6 @@
 ![SteelDoor Security Event Defense Platform](./assets/steeldoor-banner.png)
 
-[![CI Pipeline](https://github.com/TYSECRD/DevSecOps-Portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/TYSECRD/DevSecOps-Portfolio/actions/workflows/ci.yml)
+[![SteelDoor CI](https://github.com/TYSECRD/SteelDoor/actions/workflows/ci.yml/badge.svg)](https://github.com/TYSECRD/SteelDoor/actions/workflows/ci.yml)
 
 **SteelDoor** is a Python-based security-event monitoring and threat-detection API built as a hands-on DevSecOps portfolio project.
 
